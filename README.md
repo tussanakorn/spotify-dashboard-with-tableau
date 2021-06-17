@@ -4,7 +4,7 @@ CPE 329 BUSINESS INTELLIGENCE, Final Project, April-May 2021
 [![PROJECT-BI.png](https://i.postimg.cc/g03KxKbq/PROJECT-BI.png)](https://postimg.cc/R3Vt8KFN)
 Team :
 1. Tussanakorn Rattanaburee
-2. Tairat Arromrit
+2. Trirat Arromrit
 3. Jantharat Chumsang
 4. Chanakarn Rungnisakarn
 
