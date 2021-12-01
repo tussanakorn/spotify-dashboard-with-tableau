@@ -2,10 +2,10 @@
 CPE 329 BUSINESS INTELLIGENCE, Final Project, April-May 2021
 
 [![PROJECT-BI.png](https://i.postimg.cc/g03KxKbq/PROJECT-BI.png)](https://postimg.cc/R3Vt8KFN)
-Team :
+Contributors :
 - [@tussanakorn](https://github.com/tussanakorn)
 - [@Trirat2543](https://github.com/Trirat2543)
-- Jantharat Chumsang
+- [@JantharatChumsang](https://github.com/JantharatChumsang)
 - Chanakarn Rungnisakarn
 
      ในการทำ Project ครั้งนี้ ทางกลุ่มเลือกที่จะมองในมุมมองของบริษัทที่เกี่ยวข้องกับการสร้างสรรค์เพลง (ค่ายเพลง) โดยบริษัทของเรานั้นจัดตั้งมาเป็นเวลานานและในปัจจุบันกำลังมองหาแนวทางการสร้างศิลปินและเพลงที่สามารถเจาะตลาดเพลงในรูปแบบแพลตฟอร์มสตรีมมิ่งออนไลน์ให้เพิ่มมากขึ้น เลยจำเป็นต้องนำเทคโนโลยี Business intelligent เข้ามาช่วยตอบความต้องการและการวางแผนในการทำ Project ในครั้งนี้ เพื่อให้ Project สามารถประสบความสำเร็จได้ดีมากยิ่งขึ้น
